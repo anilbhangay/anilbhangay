@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/anilbhangay" target="blank"><img src="https://img.shields.io/twitter/follow/anilbhangay?logo=twitter&style=for-the-badge" alt="anilbhangay" /></a> </p>
 
-- 🔭 I’m currently working on **improving my problem solving skills.**
+- 🔭 I’m currently working on **improving my problem solving skills**
 
-- 🌱 I’m currently learning **Reactjs and Nodejs**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Designing Websites**
+- 💬 Ask me about **Designing -> Websites**
 
 - 📫 How to reach me: **anilbhangay@gmail.com**
 
-- ⚡ Fun fact **I think i am Funny**
+- ⚡ Fun fact **I think i am Smart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
