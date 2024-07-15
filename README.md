@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **improving my problem solving skills.**
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **NEXT.js**
 
 - 💬 Ask me about **Designing <-> Webpages**
 
