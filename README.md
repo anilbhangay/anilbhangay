@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **improving my problem solving skills.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **Designing <-> Websites**
+- 💬 Ask me about **Designing <-> Webpages**
 
 - 📫 How to reach me: **anilbhangay@gmail.com**
 
